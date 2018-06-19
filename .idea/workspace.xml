@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11bf801f-b45d-40dc-8ce6-c769cc84cde4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spending-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@webassemblyjs/ieee754/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/alphanum-sort/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ast-types/def/mozilla.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/awesome-typescript-loader/dist/paths-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bluebird/js/release/promise_array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/builtin-status-codes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hyphenate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/getelementsbyclassname.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/caniuse-db/features-json/rest-parameters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/caniuse-db/region-usage-json/CY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/caniuse-db/region-usage-json/TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/clean-css/lib/optimizer/level-2/restore-with-components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/core-js/fn/array/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/core-js/library/fn/array/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/$.array-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/core-js/library/modules/es6.reflect.apply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/core-js/modules/core.object.make.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/create-hmac/legacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/dashdash/node_modules/assert-plus/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/dom-converter/node_modules/utila/scripts/coffee/test/array.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/enhanced-resolve/lib/DirectoryExistsPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/es5-ext/array/#/uniq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/es5-ext/object/copy-deep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/es5-ext/test/array/#/contains.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/es5-ext/test/math/log10/is-implemented.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/es5-ext/test/reg-exp/#/sticky/is-implemented.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/external-editor/node_modules/iconv-lite/encodings/dbcs-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fbjs/lib/__mocks__/crc32.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/flush-write-stream/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/abi_crosswalk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/safer-buffer/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/get-value/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/history/es/createTransitionManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/htmlparser2/lib/Tokenizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/passes/web-incoming.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/is-my-json-valid/test/json-schema-draft4/bignum.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-yaml/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lodash-es/_initCloneObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lodash-es/isWeakSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lodash/_arrayEachRight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lodash/_listCacheGet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lodash/fp/extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lodash/fp/sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/lodash/stubArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/meow/node_modules/minimist/readme.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/moment/locale/mr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/moment/src/locale/es-us.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/neo-async/concatLimit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/node-gyp/gyp/pylib/gyp/MSVSSettings_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_functions.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/node-sass/test/fixtures/watching-dir-01/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/p-limit/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/portfinder/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/css-syntax-error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/source-map/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/postcss/node_modules/chalk/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/querystring-es3/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/react-redux/lib/connect/mapStateToProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/renderkid/lib/layout/block/linePrependor/Default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ret/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/_esm2015/internal/observable/range.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/_esm2015/internal/operators/refCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/_esm2015/internal/util/ArgumentOutOfRangeError.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/_esm5/internal/observable/fromIterable.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/_esm5/internal/operators/pairwise.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/_esm5/internal/testing/SubscriptionLoggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/add/observable/zip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/add/operator/publishReplay.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/internal/Subscriber.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/internal/operators/count.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/internal/operators/sample.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/internal/symbol/observable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/operator/take.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/operators/mergeMap.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/src/Notification.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/src/internal/observable/dom/MiscJSDoc.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/src/internal/testing/SubscriptionLog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/src/operator/switchMap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/rxjs/util/ArgumentOutOfRangeError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/sass-graph/node_modules/yargs/locales/pt_BR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/serve-index/public/icons/page_paste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/snapdragon/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/sockjs/examples/hapi/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map-loader/node_modules/async/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/spdx-exceptions/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/stream-browserify/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/tapable/lib/__tests__/SyncBailHook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/uniqs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/uuid/lib/sha1-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/node_modules/yargs/locales/ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack/lib/DynamicEntryPlugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LocalModuleDependency.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/websocket-extensions/lib/pipeline/functor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account/Account.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account/AccountSummary/AccountSummary.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account/AccountSummary/AccountSummary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account/UpdateBalance/UpdateBalance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/account/UpdateBalance/UpdateBalance.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/expense/AddExpense/AddExpense.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/expense/AddExpense/AddExpense.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/expense/Expense.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/expense/ExpenseList/ExpenseList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/expense/ExpenseList/ExpenseList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/balance.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/expense.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/ui.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/balance.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/expense.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/ui.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Typescript JSX File " />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/src/App.tsx" />
+        <option value="$PROJECT_DIR$/src/components/Hello.tsx" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/src/components/AccountSummary.tsx" />
+        <option value="$PROJECT_DIR$/src/components/App.tsx" />
+        <option value="$PROJECT_DIR$/src/components/App/App.css" />
+        <option value="$PROJECT_DIR$/src/components/AccountSummary/AccountSummary.scss" />
+        <option value="$PROJECT_DIR$/src/Index.css" />
+        <option value="$PROJECT_DIR$/src/components/AccountSummary/AccountSummary.css" />
+        <option value="$PROJECT_DIR$/src/components/AccountSummary/AccountSummary.tsx" />
+        <option value="$PROJECT_DIR$/src/components/App/App.tsx" />
+        <option value="$PROJECT_DIR$/src/components/_app/App.css" />
+        <option value="$PROJECT_DIR$/src/components/expense/AddExpense/AddExpense.css" />
+        <option value="$PROJECT_DIR$/src/redux/actions/expense.tsx" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/expense.tsx" />
+        <option value="$PROJECT_DIR$/src/Index.tsx" />
+        <option value="$PROJECT_DIR$/src/redux/store.tsx" />
+        <option value="$PROJECT_DIR$/src/redux/actions/ui.tsx" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/index.tsx" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/ui.tsx" />
+        <option value="$PROJECT_DIR$/src/components/expense/ExpenseInfo.tsx" />
+        <option value="$PROJECT_DIR$/src/components/account/AccountInfo.tsx" />
+        <option value="$PROJECT_DIR$/src/components/account/AccountSummary/AccountSummary.css" />
+        <option value="$PROJECT_DIR$/src/components/account/UpdateBalance/UpdateBalance.css" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/balance.tsx" />
+        <option value="$PROJECT_DIR$/src/redux/actions/balance.tsx" />
+        <option value="$PROJECT_DIR$/src/components/expense/AddExpense/AddExpense.tsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/components/expense/ExpenseList/ExpenseList.css" />
+        <option value="$PROJECT_DIR$/src/components/account/Account.tsx" />
+        <option value="$PROJECT_DIR$/src/components/_app/App.tsx" />
+        <option value="$PROJECT_DIR$/src/components/account/AccountSummary/AccountSummary.tsx" />
+        <option value="$PROJECT_DIR$/src/components/account/UpdateBalance/UpdateBalance.tsx" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/components/expense/ExpenseList/ExpenseList.tsx" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spending-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spending-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.2.1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/expense/AddExpense" />
+      <recent name="$PROJECT_DIR$/src/components/account" />
+      <recent name="$PROJECT_DIR$/src/components/AccountSummary" />
+      <recent name="$PROJECT_DIR$/src/components/App" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11bf801f-b45d-40dc-8ce6-c769cc84cde4" name="Default" comment="" />
+      <created>1529164643818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529164643818</updated>
+      <workItem from="1529164646344" duration="46948000" />
+      <workItem from="1529393915525" duration="523000" />
+      <workItem from="1529418431252" duration="2343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49814000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Quokka" order="7" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32831326" />
+      <window_info anchor="bottom" id="RNConsole" order="7" />
+      <window_info anchor="right" id="Api Debugger" order="3" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info anchor="right" id="ReST Console" order="3" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.dev.js" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Hello.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/Index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/_app/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/expense.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/expense/AddExpense/AddExpense.css" />
+    <entry file="file://$PROJECT_DIR$/src/Index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/expense.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/index.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/redux/store.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/ui.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/ui.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/balance.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/account/UpdateBalance/UpdateBalance.css" />
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/balance.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/expense/AddExpense/AddExpense.tsx" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/account/AccountSummary/AccountSummary.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/expense/ExpenseList/ExpenseList.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/account/Account.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/_app/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/expense/Expense.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/account/UpdateBalance/UpdateBalance.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/account/AccountSummary/AccountSummary.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/expense/ExpenseList/ExpenseList.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

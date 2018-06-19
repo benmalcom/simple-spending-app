@@ -1,0 +1,19 @@
+.summary{
+    min-height: 40vh;
+    box-shadow: 0 2px 6px 0 hsla(0,0%,0%,0.2);
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 0;
+    margin-top: 25vh;
+}
+.summary .summary-top{
+    height: 30%;
+    background-color: #F6F8FA;
+}
+.summary .summary-details{
+    height: 40%;
+    border-bottom: 2px solid #f7f7f7;
+}
+.summary .summary-actions{
+    height: 30%;
+}
